@@ -1,0 +1,9 @@
+{
+  "name": "dep-health-demo",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.17.0",
+    "request": "2.88.2"
+  }
+}
